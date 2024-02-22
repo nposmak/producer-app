@@ -1,0 +1,14 @@
+server:
+  port: ${app_port}
+
+rabbit:
+  host: ${rabbit_host}
+  port: ${rabbit_port}
+  username: ${rabbit_user_name}
+  password: ${rabbit_password}
+  queue: ${queue_name}
+  exchange: ${exchange}
+  routing: ${routing_key}
+
+
+

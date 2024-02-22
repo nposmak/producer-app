@@ -1,0 +1,8 @@
+app_port:  8082
+queue_name: my_queue
+exchange: my_exchange
+routing_key: my_routing
+rabbit_user_name: user
+rabbit_password: password
+rabbit_host: localhost
+rabbit_port: 5672
